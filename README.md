@@ -1,1 +1,1 @@
-# Bot muzyczny do aplikacji Discord
+# Bot muzyczny do Discorda
