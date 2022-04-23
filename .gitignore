@@ -105,4 +105,4 @@ dist
 botconfig.json
 
 # Visual Studio Code
-.vscode/
+.vs/
